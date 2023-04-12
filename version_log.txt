@@ -1,0 +1,33 @@
+v1.0
+Starting Version
+
+v2.0
+Healing prevents movement
+
+v2.1
+damage_vals = [2, 4, 8]
+range_vals = [1.5, 4.5, 7.5]
+aoe_vals = [0, 2.5, 4.5]
+survival_vals = [10, 20, 30]
+support_vals = [0, 4, 8]
+mobility_vals = [1.5, 3.5, 6.5]
+
+v3.0
+Healers can no longer self-heal
+Separate mutation rate for stat changes
+
+Bug Fix - Mutations will always mutate
+
+v4.0
+Added meta tester
+Changed team elimination to slightly random
+
+v5.0
+Fixed Healing
+
+damage_vals = [2, 4, 8]
+range_vals = [1.5, 3.5, 7.5]
+aoe_vals = [0, 2.5, 4.5]
+survival_vals = [10, 20, 30]
+support_vals = [0, 3, 6]
+mobility_vals = [1.5, 5.5, 10.5]
